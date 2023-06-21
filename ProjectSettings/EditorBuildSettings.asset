@@ -9,5 +9,5 @@ EditorBuildSettings:
     path: Assets/Scenes/Game.unity
     guid: 31b17260a30e79d40ad2237ff94affbd
   m_configObjects:
-    com.unity.input.settings: {fileID: 11400000, guid: 5ff5ecd2b3f4eb54289110ed5ff693eb, type: 2}
-    com.unity.renderstreaming.settings: {fileID: 11400000, guid: 5cac39847e2605240935de3fa24be66e, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 2efc0fe0e84a7d44dab391248a9621ef, type: 2}
+    com.unity.renderstreaming.settings: {fileID: 11400000, guid: cfa23af4ab2db8c469ed061d6303713c, type: 2}
